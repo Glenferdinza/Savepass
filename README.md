@@ -1,6 +1,8 @@
 # SavePass - Smart Notepad Credential Vault
+Developed and Licensed by **Irsy**.
 
 SavePass is a local-first, privacy-respecting desktop application designed to bridge the gap between unstructured notepad logs and structured password managers. Write or paste your unstructured credential dumps (e.g., server details, database credentials, API tokens) as raw text, and SavePass will automatically parse them into beautiful, organized, and searchable "Smart Cards" with quick copy, auto-type, security auditing, and offline revision history.
+
 
 ---
 
